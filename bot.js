@@ -286,4 +286,4 @@ message.author.sendEmbed(embed);
 
 
 
-client.login('NTIwNTQwMDU4NTkyMjE1MDQz.DuvXXQ.XF9Zqx67J6_5XC8kJAuDPLG-F8s');
+client.login('NTIwNTQwMDU4NTkyMjE1MDQz.Duvaaw.NhOKIXRf_4nOeKxmptVo44qsSXg');
