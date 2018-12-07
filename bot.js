@@ -286,4 +286,4 @@ message.author.sendEmbed(embed);
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login('NTIwNTQwMDU4NTkyMjE1MDQz.DuvXXQ.XF9Zqx67J6_5XC8kJAuDPLG-F8s');
